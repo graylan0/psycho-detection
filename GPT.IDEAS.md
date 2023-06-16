@@ -1,3 +1,4 @@
+```
 - <span style="color:#FF0000">Idea 1: Use GPT-4 to analyze speech patterns</span>
   - <span style="color:#FF7F00">Idea 1.1: Look for disorganized speech</span>
     - <span style="color:#FFFF00">Idea 1.1.1: Develop an algorithm to detect tangential speech</span>
@@ -48,5 +49,5 @@
     - <span style="color:#FFFF00">Idea 10.1.1: Develop an algorithm to detect grandiose or paranoid themes</span>
       - <span style="color:#00FF00">Idea 10.1.1.1: Test the algorithm with a dataset of patient's personal writings</span>
         - <span style="color:#0000FF">Idea 10.1.1.1.1: Refine the algorithm based on the test results</span>
-
+```
 Please note that this is a conceptual framework for exploring different ideas around the task of psychosis detection with GPT-4. The actual implementation of these ideas would require a significant amount of work and expertise in both AI and mental health.
