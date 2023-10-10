@@ -1,0 +1,4 @@
+{
+    "openai_api_key": "secretkeyhere",
+    "your_secret_key_field": "your_flask_secret_key"
+  }
